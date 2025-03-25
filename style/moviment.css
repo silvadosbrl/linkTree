@@ -1,0 +1,17 @@
+button#services:hover{
+    transform: translateX(10px);
+    background-color: rgba(105, 4, 13, 0.927);
+    cursor: pointer;
+}
+
+button#redirect:hover{
+    transform: translateX(10px);
+    background-color: rgba(228, 31, 74, 0.88);
+    cursor: pointer;
+}
+
+button#redirectTwo:hover{
+    transform: translateX(10px);
+    background-color: rgb(47, 222, 28);
+    cursor: pointer;
+}
